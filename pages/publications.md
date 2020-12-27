@@ -14,8 +14,7 @@ title: Publications
 
 
 ## YouTube
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=QiG5-naXkBo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QiG5-naXkBo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 1. __Ng, C. S.__, Chong, K. L., Yang, R., Hori, N., Verzicco, R. and Lohse, D. 'Role of weather on respiratory droplets'
 
 ## Conference Proceedings
