@@ -3,6 +3,17 @@ layout: default
 title: Home
 ---
 
+<div class="page-content">
+  <h1>
+    {{ page.title }}
+  </h1>
+
+<article>
+  {{ content }}
+</article>
+</div>
+
+<!-- All of the following are the original home.html format
 {% for post in paginator.posts %}
 
 <article>
@@ -14,8 +25,10 @@ title: Home
 </article>
 
 {% endfor %}
+-->
 
 <!-- Pagination links -->
+<!--
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-button pagination-active next" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
@@ -29,3 +42,5 @@ title: Home
       <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
   {% endif %}
 </div>
+
+-->

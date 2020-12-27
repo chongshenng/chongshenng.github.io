@@ -1,7 +1,7 @@
 # Site Build Settings
 
 # jekyll-paginate configuration
-paginate:            5
+paginate:            3
 
 # Build settings
 markdown:            kramdown
@@ -14,10 +14,16 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Keep Calm and Code"
-description:	       "a personal blog of computational physicist turned data scientist"
+title:		           "Chong Shen Ng"
+description:	       "a personal blog of computational physicist / developer / data scientist"
 author:              "Chong Shen Ng"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+social-network-links:
+  email: "someone@example.com"
+
+share-links-active:
+  email: true
