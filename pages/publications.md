@@ -3,24 +3,45 @@ layout: misc
 title: Publications
 ---
 
-1. Chong, K. L., __Ng, C. S.__, Hori, N., Yang, R., Verzicco, R. and Lohse, D., 'Extended lifetime of respiratory droplets in a turbulent vapour puff and its implications on airborne disease transmission', _Phys. Rev. Lett._ (in press) [[pdf]](https://doi.org/10.1101/2020.08.04.20168468).
-2. __Ng, C. S.__, Spandan, V., Verzicco, R. and Lohse, D., 
-‘Non-monotonic transport mechanisms in vertical natural convection with dispersed light droplets’, _J. Fluid Mech._, 2020.  [[pdf]](https://doi.org/10.1017/jfm.2020.506)
-3. Chong, K. L., Li, Y., __Ng, C. S.__, Verzicco, R. and Lohse, D., ‘Convection-dominated dissolution for single and multiple immersed sessile droplets’, _J. Fluid Mech._, 2020. [[pdf]](https://doi.org/10.1017/jfm.2020.175)
-4. __Ng, C. S.__, Ooi, A., Lohse, D. and Chung, D., ‘Bulk scaling in wall-bounded and homogeneous vertical natural convection’, _J. Fluid Mech._, 2018. [[pdf]](https://arxiv.org/abs/1806.08341)
-5. __Ng, C. S.__, Ooi, A., Lohse, D. and Chung, D., ‘Changes in the boundary-layer structure at the edge of the ultimate regime in vertical natural convection’, _J. Fluid Mech._, 2017. [[pdf]](https://arxiv.org/abs/1806.08326)
-6. __Ng, C. S.__, Ooi, A., Lohse, D. and Chung, D., ‘Vertical natural convection: application of the unifying theory of thermal convection’, _J. Fluid Mech._, 2015. [[pdf]](https://arxiv.org/abs/1806.07698)
-7. __Ng, C. S.__, Chung, D., and Ooi, A., ‘Turbulent natural convection scaling in a vertical channel’, _Int J. Heat Fluid Flow_, 2013. [[pdf]](https://doi.org/10.1016/j.ijheatfluidflow.2013.08.011)
+<a class="anchor" id="anch_top"> </a>
 
+1. Chong, K. L., __Ng, C. S.__, Hori, N., Yang, R., Verzicco, R. and Lohse, D., '[Extended lifetime of respiratory droplets in a turbulent vapour puff and its implications on airborne disease transmission](https://doi.org/10.1101/2020.08.04.20168468)', _Phys. Rev. Lett._ (in press) <!--[[pdf]](https://doi.org/10.1101/2020.08.04.20168468).-->
+2. __Ng, C. S.__, Spandan, V., Verzicco, R. and Lohse, D., 
+‘[Non-monotonic transport mechanisms in vertical natural convection with dispersed light droplets](https://doi.org/10.1017/jfm.2020.506)’, _J. Fluid Mech._, 2020.
+3. Chong, K. L., Li, Y., __Ng, C. S.__, Verzicco, R. and Lohse, D., ‘[Convection-dominated dissolution for single and multiple immersed sessile droplets](https://doi.org/10.1017/jfm.2020.175)’, _J. Fluid Mech._, 2020.
+4. __Ng, C. S.__, Ooi, A., Lohse, D. and Chung, D., ‘[Bulk scaling in wall-bounded and homogeneous vertical natural convection](https://arxiv.org/abs/1806.08341)’, _J. Fluid Mech._, 2018.
+5. __Ng, C. S.__, Ooi, A., Lohse, D. and Chung, D., ‘[Changes in the boundary-layer structure at the edge of the ultimate regime in vertical natural convection](https://arxiv.org/abs/1806.08326)’, _J. Fluid Mech._, 2017.
+6. __Ng, C. S.__, Ooi, A., Lohse, D. and Chung, D., ‘[Vertical natural convection: application of the unifying theory of thermal convection](https://arxiv.org/abs/1806.07698)’, _J. Fluid Mech._, 2015.
+7. __Ng, C. S.__, Chung, D., and Ooi, A., ‘[Turbulent natural convection scaling in a vertical channel](https://doi.org/10.1016/j.ijheatfluidflow.2013.08.011)’, _Int J. Heat Fluid Flow_, 2013.
+
+
+<br>
+
+## PhD Thesis
+[Boundary layer and bulk dynamics in vertical natural convection](https://minerva-access.unimelb.edu.au/handle/11343/197921) (2017), University of Melbourne, Australia. Supervised by [Assoc. Prof. Daniel Chung](https://people.eng.unimelb.edu.au/chungd1/) and [Prof. Andrew Ooi](https://findanexpert.unimelb.edu.au/profile/15528-andrew-ooi).
+
+<div style="text-align: right"> <a style="color:black" href="#anch_top">Back to top</a> </div>
+
+<!-- --- -->
 
 ## YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QiG5-naXkBo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-1. __Ng, C. S.__, Chong, K. L., Yang, R., Hori, N., Verzicco, R. and Lohse, D. 'Role of weather on respiratory droplets'
+1. __Ng, C. S.__, Chong, K. L., Yang, R., Hori, N., Verzicco, R. and Lohse, D. '[Role of weather on respiratory droplets](https://www.youtube.com/embed/QiG5-naXkBo)'
+
+<div style="text-align: right"> <a style="color:black" href="#anch_top">Back to top</a> </div>
+
+
+<!-- --- -->
+
 
 ## Conference Proceedings
-1. __Ng, C. S.__, Spandan, V., Verzicco, R. and Lohse, D., ‘Heat transport in two-phase vertical natural convection using an Euler–Lagrange approach’, 21st Australasian Fluid Mechanics Conference, Adelaide, Australia, 2018.  [[pdf]](https://people.eng.unimelb.edu.au/imarusic/proceedings/21/Contribution_520_final.pdf)
-2. __Ng, C. S.__, Ooi, A., and Chung, D., ‘Potential energy in vertical natural convection’. 20th Australasian Fluid Mechanics Conference, Perth, Australia, 2016.  [[pdf]](https://people.eng.unimelb.edu.au/imarusic/proceedings/20/727%20Paper.pdf)
-3. __Ng, C. S.__, Ooi, A., and Chung, D., ‘Direct numerical simulation of natural convection in a vertical channel’, 18th Australasian Fluid Mechanics Conference, Tasmania, Australia, 2012.  [[pdf]](https://people.eng.unimelb.edu.au/imarusic/proceedings/18/222%20-%20Ng.pdf)
+1. __Ng, C. S.__, Spandan, V., Verzicco, R. and Lohse, D., ‘[Heat transport in two-phase vertical natural convection using an Euler–Lagrange approach](https://people.eng.unimelb.edu.au/imarusic/proceedings/21/Contribution_520_final.pdf)’, 21st Australasian Fluid Mechanics Conference, Adelaide, Australia, 2018.
+2. __Ng, C. S.__, Ooi, A., and Chung, D., ‘[Potential energy in vertical natural convection](https://people.eng.unimelb.edu.au/imarusic/proceedings/20/727%20Paper.pdf)’. 20th Australasian Fluid Mechanics Conference, Perth, Australia, 2016.
+3. __Ng, C. S.__, Ooi, A., and Chung, D., ‘[Direct numerical simulation of natural convection in a vertical channel](https://people.eng.unimelb.edu.au/imarusic/proceedings/18/222%20-%20Ng.pdf)’, 18th Australasian Fluid Mechanics Conference, Tasmania, Australia, 2012.
+
+<div style="text-align: right"> <a style="color:black" href="#anch_top">Back to top</a> </div>
+
+<!-- --- -->
 
 ## Talks
 1. __Ng, C. S.__, Chong, K. L., Liu, H., Hori, N., Verzicco, R. and Lohse, D. Skin-friction drag reduction in buoyant bubbly plane Couette flow. APS 73rd Annual Meeting DFD Meeting, Chicago, Illinois. 22-24 Nov 2020.
@@ -39,6 +60,8 @@ title: Publications
 14. __Ng, C. S.__, Ooi, A., Lohse, D. and Chung, D.. An application of the unifying theory of thermal convection in vertical natural convection APS 67th DFD Meeting, San Francisco, California, USA. 23-25 Nov 2014.
 15. __Ng, C. S.__, Chung, D., and Ooi, A.. Direct numerical simulation of natural convection in a vertical channel. 18th Australasian Fluid Mechanics Conference, Launceston, Tasmania, Australia. 3-7 Dec 2012.
 
+<div style="text-align: right"> <a style="color:black" href="#anch_top">Back to top</a> </div>
+
 ## Teaching
 
 1. 2018: Tutor for ‘Advanced Fluid Mechanics’ Masters coursework in Fluid Physics, University of Twente, Netherlands (approx. 50 students).
@@ -47,3 +70,5 @@ title: Publications
 4. 2015-2016: Tutor (lead) for ‘Engineering Mechanics’ undergraduate coursework, Mechanical Engineering Department, University of Melbourne, Australia (approx. 25 students per class, ave. 350 students total).
 5. 2013-2016: Tutor for ‘Fluid Mechanics’ undergraduate coursework, Mechanical Engineering Department, University of Melbourne, Australia (approx. 25 students).
 6. 2012-2014: Tutor (lab-work) for undergraduate courses at the Mechanical and Manufacturing Department, University of Melbourne, Australia in the following courses: Computational Fluid Dynamics, Fluid Mechanics and Thermodynamics. 
+
+<div style="text-align: right"> <a style="color:black" href="#anch_top">Back to top</a> </div>

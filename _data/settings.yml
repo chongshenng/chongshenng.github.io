@@ -15,8 +15,9 @@ menu:
 # - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 # - {name: 'home', folder: 'pages', file: 'home.html'}
 # - {name: 'whois', folder: 'pages', file: 'whois.html'}
-- {name: 'projects', folder: 'pages', file: 'projects.html'}
 - {name: 'publications', folder: 'pages', file: 'publications.html'}
+- {name: 'projects', folder: 'pages', file: 'projects.html'}
+
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link: 'https://github.com/chongshenng'}

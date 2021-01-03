@@ -18,6 +18,11 @@
 }
 .site-header a {
   text-decoration: none;
+  color: $brand-color; // This setting overwrites default scss
+}
+.site-header a:hover {
+  // color: hotpink;
+  text-decoration: underline;
 }
 .site-title {
   font-size: 26px;

@@ -14,9 +14,9 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "csng.io"
-description:	       "a personal website of computational physicist / developer / data scientist"
-author:              "Chong Shen Ng"
+title:		           "johnng.io"
+description:	       "a personal website of computational physicist and data scientist"
+author:              "Chong Shen (John) Ng"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

@@ -8,7 +8,15 @@
   margin-right: auto;
 }
 .container a {
+  // text-decoration: underline;
+  text-decoration: none;
+  color: blue;
+}
+.container a:hover {
   text-decoration: underline;
+}
+.container a:active {
+  color: hotpink;
 }
 .posts-wrapper {
   padding-top: $header-thickness+10px;
