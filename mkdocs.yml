@@ -1,0 +1,21 @@
+site_name: chongshenng.github.io
+site_url: https://chongshenng.github.io
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+
+# Page tree
+nav:
+  - home: index.md
+  - TIL: TIL.md
+  - projects: projects.md
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/chongshenng
+    - icon: fontawesome/brands/github
+      link: https://github.com/chongshenng
