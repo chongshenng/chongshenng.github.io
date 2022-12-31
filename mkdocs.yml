@@ -9,6 +9,7 @@ theme:
 # Page tree
 nav:
   - home: index.md
+  - aboutme: aboutme.md
   - TIL: TIL.md
   - projects: projects.md
 
@@ -19,3 +20,13 @@ extra:
       link: https://www.linkedin.com/in/chongshenng
     - icon: fontawesome/brands/github
       link: https://github.com/chongshenng
+
+extra_css:
+  - stylesheets/extra.css
+
+# Extensions
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
