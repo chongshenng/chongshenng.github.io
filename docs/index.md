@@ -3,6 +3,6 @@ hide:
   - footer
   - navigation
 ---
-# Hello
+# About Me
 
-Here goes my blog.
+Hi there. I'm Chong Shen. I'm currently a research engineer at [Flower Labs](https://flower.ai). Previously, I was a data scientist and computational physicist. My interests include distributed machine learning and applied physics.

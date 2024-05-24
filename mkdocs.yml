@@ -8,10 +8,8 @@ theme:
 
 # Page tree
 nav:
-  - home: index.md
-  - aboutme: aboutme.md
-  - TIL: TIL.md
-  - projects: projects.md
+  - About Me: index.md
+  - Projects: projects.md
 
 # Customization
 extra:
@@ -30,3 +28,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+# Search
+plugins: []
