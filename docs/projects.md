@@ -3,6 +3,5 @@ hide:
   - footer
   - navigation
 ---
-# projects
+# Projects
 
-List of projects that I'm working on.
