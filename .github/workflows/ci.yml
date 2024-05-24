@@ -19,8 +19,9 @@ jobs:
         with:
           python-version: 3.11
       - name: Store cache key
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - uses: actions/cache@v4
+        run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - name: Cache dependencies
+        uses: actions/cache@v4
         with:
           key: mkdocs-material-${{ env.cache_id }}
           path: .cache
