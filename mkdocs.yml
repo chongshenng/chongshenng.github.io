@@ -8,8 +8,11 @@ theme:
 
 # Page tree
 nav:
-  - About Me: index.md
+  - About: index.md
   - Projects: projects.md
+  - Research:
+    - research.md
+    - talks.md
 
 # Customization
 extra:
